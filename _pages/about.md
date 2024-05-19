@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Stimulus"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ such as facade fabrication, and structural engineering workflows.
 Passionate about 3D geometry data, I want to leverage advanced machine learning and data science techniques to optimize production efficiency by making 
 prediction models.My goal is to empower architects, structural engineers, BIM managers, and clients in modern metropolitan settings, facilitating visionary construction projects in the 21st century.
 
-Currently developing in-house pipelines Computational design workflows for Structural Engineering, AI action plan, and BIM  at TYLin | Silman Structural Solutions. At the moment,I am seeking specialization in Machine learning( LLM, Image processing, 3D point cloud), Data Science, Cloud Computing, and Full-stack DevelopmenT(React.js and Vue.js).Check out my LinkedIn Page for more
+Currently developing in-house pipelines Computational design workflows for Structural Engineering, AI action plan, and BIM  at TYLin | Silman Structural Solutions. At the moment,I am seeking specialization in Machine learning( LLM, Image processing, 3D point cloud), Data Science, Cloud Computing, and Full-stack DevelopmenT(React.js and Vue.js).
 
 Key interests include Large Language Models, Image processing, 3D Machine Learning techniques, and Automation Software Engineering for AEC(Robotics Simulation, Digital Twins, Dfma).
 

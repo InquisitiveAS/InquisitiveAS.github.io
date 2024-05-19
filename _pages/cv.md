@@ -11,34 +11,25 @@ redirect_from:
 
 Education
 ======
-* M.S., Digital Technologies & Material Systems : University of Michigan,Ann Arbor (June 2019)
-* B.Sc, Architecture | LS Raheja School of Architecture: University of Mumbai,India (June 2014)
+* M.Sc, Digital Technologies & Material Systems : University of Michigan,Ann Arbor (June2018-June 2019)
+* B.Sc, Architecture : LS Raheja School of Architecture: University of Mumbai,India (June 2009-June 2014)
 
 Work experience
 ======
-* TYLin Silman Structural Solutions 
-  * Duties includes:PyRevit Add-in developer , Revit API, Large Language Model, AI Agents, Lan
-  * Technology Stack 
+* TYLin Silman Structural Solutions  (February2020-Present)
+  * Duties includes: PyRevit Add-in developer , Revit API, Large Language Model, AI Agents, Segmentation, Vector Embeddings
   * Supervisor: Justin Den Herder 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Technology Stack 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages 
+  * Python , C#/.NET, Javascript, C++
+* Data Science
+  * NumPy, Pandas, sympy,matplotlib
+* Database
+  * MongoDB, Microsoft SQL,SQL Server
+* Machine Learning
+  * sci-kit learn, TensorFlow, PyTorch, Keras
 
 Publications
 ======
