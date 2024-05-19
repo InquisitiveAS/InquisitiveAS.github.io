@@ -13,20 +13,11 @@ standalone Application Development, and WPF Application development to streamlin
 such as facade fabrication, and structural engineering workflows.
 
 Passionate about 3D geometry data, I want to leverage advanced machine learning and data science techniques to optimize production efficiency by making 
-prediction models.
-My goal is to empower architects, structural engineers, BIM managers, and clients in modern metropolitan settings, facilitating visionary construction projects in the 21st century.
-
-Currently seeking software engineering roles in data science and machine learning, specifically about 3D datasets like geometry, 
-AEC data, and Computational geometry data. I am open to software engineering roles in DevOps and MLOps.
-
+prediction models.My goal is to empower architects, structural engineers, BIM managers, and clients in modern metropolitan settings, facilitating visionary construction projects in the 21st century.
 
 Currently developing in-house pipelines Computational design workflows for Structural Engineering, AI action plan, and BIM  at TYLin | Silman Structural Solutions. At the moment,I am seeking specialization in Machine learning( LLM, Image processing, 3D point cloud), Data Science, Cloud Computing, and Full-stack DevelopmenT(React.js and Vue.js).Check out my LinkedIn Page for more
 
 Key interests include Large Language Models, Image processing, 3D Machine Learning techniques, and Automation Software Engineering for AEC(Robotics Simulation, Digital Twins, Dfma).
-
-
-
-
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
 
