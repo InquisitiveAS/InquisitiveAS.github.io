@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "headshot_Abhi.jpg"
   name             : "Abhishek Shinde"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : he/him 
+  bio              : "Gaining skills to create Machine Learning and Data Science pipelines inside a FullStack Application for the AEC industry "
+  location         : "Somerville,Massachusetts,USA"
+  employer         : "TYLin Silman Structural Solutions"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arabhishek1091@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
