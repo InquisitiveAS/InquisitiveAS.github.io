@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "InquisitiveAS's homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Abhishek Shinde"
+description              : &description "Computational designer & Maker learning ML+Data+Full Stack"
+url                      : https://Inquisitiveas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Inquisitiveas.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "headshot_Abhi.jpg"
   name             : "Abhishek Shinde"
-  pronouns         : he/him 
+  pronouns         :  he/him 
   bio              : "Gaining skills to create Machine Learning and Data Science pipelines inside a FullStack Application for the AEC industry "
   location         : "Somerville,Massachusetts,USA"
   employer         : "TYLin Silman Structural Solutions"
