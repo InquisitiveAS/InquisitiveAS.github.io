@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S., Digital Technologies & Material Systems	| University of Michigan,Ann Arbor (June 2019)
-* B.Sc, Architecture | LS Raheja School of Architecture, University of Mumbai,India (June 2014)
+* M.S., Digital Technologies & Material Systems : University of Michigan,Ann Arbor (June 2019)
+* B.Sc, Architecture | LS Raheja School of Architecture: University of Mumbai,India (June 2014)
 
 Work experience
 ======
