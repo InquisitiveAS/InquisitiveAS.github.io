@@ -21,7 +21,7 @@ repository               : "Inquisitiveas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_Abhi.jpg"
+  avatar           : "headshot_Abhi_r.png"
   name             : "Abhishek Shinde"
   pronouns         :  he/him 
   bio              : "Gaining skills to create Machine Learning and Data Science pipelines inside a FullStack Application for the AEC industry "
