@@ -62,8 +62,6 @@ Certifications
 
 Work In Progress 
 
-
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -84,4 +82,8 @@ Teaching
   
 Hackathons,Conference Participation
 ======
-* Currently signed in to 43 different slack teams
+* Speckle Hackathon 2024
+* AAG 2022
+* Digital Futures World 2021.
+* ACADIA 2021
+* ACADIA 2018
