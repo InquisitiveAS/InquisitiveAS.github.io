@@ -57,6 +57,13 @@ Technology Stack
 * Fabrication & Maker
   *  Onsrud 3 Axis CNC Milling,MasterCAM,Zund Knife Cutter, Laser Cutting,3D printing, KUKA PRC
 
+Certifications
+=======
+
+Work In Progress 
+
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -75,6 +82,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Hackathons,Conference Participation
 ======
 * Currently signed in to 43 different slack teams
