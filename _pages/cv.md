@@ -16,7 +16,7 @@ Education
 
 Work experience
 ====== 
-* TYLin Silman Structural Solutions  (February2020 - Present)
+* TYLin Silman Structural Solutions(February2020 - Present)
   * Responsiblities: PyRevit Add-in developer , Revit API, Large Language Model,Copilot Studio, Speckle Full Stack, Autodesk FullStack development, Machine Learning 
   * Supervisor: Justin Den Herder 
 
