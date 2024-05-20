@@ -21,11 +21,12 @@ Work experience
   * Supervisor: Justin Den Herder 
 
 * Island Exterior Fabricators LLC(April 2020 - January 2023)
-  * Responsiblities:  Rhino3D CAD drawings, Inventor3D drawings, Grasshopper3D, WPF Application development
+  * Responsiblities:  Rhino3D CAD drawings, Inventor3D drawings, Grasshopper3D, WPF Application development, C#, Python
   * Supervisor: Daniel Clarke
 
-* TYLin Silman Structural Solutions  (February2020-Present)
-
+* ADR Research Laboratory, University of Michigan,Ann Arbor (June 2019- May 2020)
+  * Responsiblities:  Design & fabrication of tools(end-effectors,machines), Industrial robotic arm(KR-6, KR-60, KR-120)applications, Grasshopper3D , Python
+  * Supervisor: Arash Adel
 
 Technology Stack 
 ======
