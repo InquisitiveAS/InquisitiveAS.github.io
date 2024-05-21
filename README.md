@@ -2,6 +2,8 @@
 # About
 
 This is a github io website for Abhishek Shinde 
+Stay Humble and Keep Learning  
+Striving to be a good developer 
 
 
 <!-- # Academic Pages
