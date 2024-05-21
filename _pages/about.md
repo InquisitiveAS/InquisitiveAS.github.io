@@ -1,19 +1,24 @@
 ---
 permalink: /
-title: "Stimulus"
+title: "TL;DR"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-A former architect transitioned into computational design, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications to streamline AEC workflows. Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer while understanding the product and client's need.
+A former architect transitioned into computational design, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications in other AEC softwares to streamline AEC workflows. 
+
+Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer while understanding the product and client's need.
 
 Passionate about 3D geometry data and leveraging machine learning to optimize production efficiency in AEC. Determined to develop computational design pipelines, AI & data pipelines, and BIM automation pipelines.
 
-Currently seeking expertise in machine learning (LLMs, image processing, NLP, IoT, computer vision, and other AI domains), data engineering (point clouds, CAD data), cloud computing (Azure Stack), and full-stack development with a focus on back-end. 
+Currently seeking expertise in machine learning, data engineering, cloud computing,and full-stack development with a focus on back-end. 
 
 Driven to contribute to cutting-edge research and development in the AEC software domain, combining architectural knowledge with advanced software engineering and data science techniques.
+
+FUN FACT: I love to sketch humans(speed-sketching),weight lifting, going on trails, and love cooking . I love coffee-hoping,food-tasting,wine-tasing on weekends. I chose architecture but hated being an engineer. Now I want to
+become one !!
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
