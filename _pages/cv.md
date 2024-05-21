@@ -24,7 +24,7 @@ Work experience
   * Responsiblities:  Rhino3D CAD drawings, Inventor3D drawings, Grasshopper3D, WPF Application development, C#, Python
   * Supervisor: Daniel Clarke
 
-* ADR Research Laboratory, University of Michigan,Ann Arbor (June 2019- May 2020)
+* ADR Laboratory, University of Michigan,Ann Arbor (June 2019- May 2020)
   * Responsiblities:  Design & fabrication of tools(end-effectors,machines), Industrial robotic arm(KR-6, KR-60, KR-120)applications, Grasshopper3D , Python
   * Supervisor: Arash Adel
 
