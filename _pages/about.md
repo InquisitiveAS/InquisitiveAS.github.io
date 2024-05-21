@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A former architect transitioned into computational design, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications to streamline AEC workflows. Aiming to become an accomplished AEC software developer with a future goal of becoming a product manager. 
+A former architect transitioned into computational design, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications to streamline AEC workflows. Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer while understanding the product and client's need.
 
 Passionate about 3D geometry data and leveraging machine learning to optimize production efficiency in AEC. Determined to develop computational design pipelines, AI & data pipelines, and BIM automation pipelines.
 
