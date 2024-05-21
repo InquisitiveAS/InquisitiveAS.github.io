@@ -7,17 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Former architect turned computational designer, now transitioning into software development with a focus on digitizing the AEC 
-(Architecture, Engineering, and Construction) industry. I specialize in developing add-ins/plugins for Revit, and Rhino, and also 
-standalone Application Development, and WPF Application development to streamline computational design workflows for AEC applications 
-such as facade fabrication, and structural engineering workflows.
+A former architect transitioned into computational design, specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications to streamline AEC workflows. Passionate about 3D geometry data and leveraging machine learning for optimizing production efficiency. Experienced in developing computational design pipelines, AI action plans, and BIM workflows for structural engineering firms. Currently seeking expertise in machine learning (LLMs, image processing, 3D point clouds, other AEC data), data engineering, cloud computing, and full-stack development (focused on back-end). Key interests include large language models, image processing, 3D machine learning techniques, and automation software engineering for AEC (robotics simulation, digital twins, DfMA).
 
-Passionate about 3D geometry data, I want to leverage advanced machine learning and data science techniques to optimize production efficiency by making 
-prediction models.My goal is to empower architects, structural engineers, BIM managers, and clients in modern metropolitan settings, facilitating visionary construction projects in the 21st century.
-
-Currently developing in-house pipelines Computational design workflows for Structural Engineering, AI action plan, and BIM  at TYLin Silman Structural Solutions. At the moment,I am seeking specialization in Machine learning( LLM, Image processing, 3D point cloud), Data Engineering , Cloud Computing, and Full-stack Development(React.js and Vue.js ecosystem).
-
-Key interests include Large Language Models, Image processing, 3D Machine Learning techniques, and Automation Software Engineering for AEC(Robotics Simulation, Digital Twins, Dfma).
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
 
