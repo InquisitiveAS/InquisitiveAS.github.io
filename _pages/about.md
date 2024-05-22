@@ -15,7 +15,8 @@ Passionate about 3D geometry data and leveraging machine learning to optimize pr
 
 Currently seeking expertise in machine learning, data engineering, cloud computing,and full-stack development with a focus on back-end. 
 
-Driven to contribute to cutting-edge research and development in the AEC software domain, combining architectural knowledge with advanced software engineering and data science techniques.
+Driven to contribute to cutting-edge research and development in the AEC software domain, combining architectural,
+Dfma Knowledge and past experience in Robotic Fabrication.
 
 FUN FACT: I love to sketch humans(speed-sketching),weight lifting, going on trails, and love cooking . I love coffee-hoping,food-tasting,wine-tasing on weekends. I chose architecture but hated being an engineer. Now I want to
 become one !!
