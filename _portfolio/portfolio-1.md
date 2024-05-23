@@ -1,6 +1,6 @@
 ---
 title: "Silman ConColScheduler"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/01_portfolio_1.png'>"
+excerpt: "PyRevit Add-in at Silman TYLin <br/><img src='/images/01_portfolio_1.png'>"
 collection: portfolio
 ---
 
