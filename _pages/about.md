@@ -18,8 +18,8 @@ Currently seeking expertise in machine learning, data engineering, cloud computi
 Driven to contribute to cutting-edge research and development in the AEC software domain, combining architectural,
 Dfma Knowledge and past experience in Robotic Fabrication.
 
-FUN FACT: I love to sketch humans(speed-sketching),weight lifting, going on trails, and love cooking . I love coffee-hoping,food-tasting,wine-tasing on weekends. I chose architecture but hated being an engineer. Now I want to
-become one ! 
+FUN FACT: I love to sketch humans(speed-sketching),weight lifting, going on trails, and love cooking . I love coffee-hoping,food-tasting,wine-tasing on weekends. Architecture,Technology and Robotics is what excites me! I deeply care how this will
+impact the AEC in the next 25 years and I am excited for the roller-coaster.
 
 "Dreaming of constructing skyscrapers with data, machine learning, and robots. Can buildings have a mind of their own?" ~ GPT 3.5 prompt by Abhishek Shinde
 
