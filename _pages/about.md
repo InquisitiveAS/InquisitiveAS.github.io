@@ -25,7 +25,11 @@ Currently seeking expertise in machine learning, data engineering, cloud computi
 Driven to contribute to cutting-edge research and development in the AEC software domain, combining architectural,
 Dfma Knowledge and past experience in Robotic Fabrication.
 
-Architecture,Technology and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster.
+*Architecture,Technology and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster.*
+
+[!IMPORTANT] 
+*I independently vlog on Architectural Robotics: [Vimeo Website](https://vimeo.com/exdas)since 2014*
+
 
 
 
