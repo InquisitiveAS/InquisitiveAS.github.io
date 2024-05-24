@@ -15,7 +15,9 @@ redirect_from:
 
 *Architecture,Technology and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster.*
 
-*I independently vlog on Architectural Robotics ~ [Vlog](https://vimeo.com/exdas)since 2014*
+*I independently vlog my journey about Architectural Robotics ~ [exdAS](https://vimeo.com/exdas) since 2015.*
+
+*exDAS means "Exploratory discourse for architectural systems".Architectural Systems is agnostic  is a metaphor*
 
 A former architect transitioned into computational design, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications in other AEC softwares like Speckle,APS,etc to streamline AEC workflows. 
 
