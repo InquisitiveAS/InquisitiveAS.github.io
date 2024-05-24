@@ -19,13 +19,14 @@ redirect_from:
 
 *exDAS means "Exploratory discourse for architectural systems".Architectural Systems is just a metaphor !!*
 
-A former architect transitioned into computational design, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications in other AEC softwares like Speckle,APS,etc to streamline AEC workflows. 
+A former architect working as computational designer, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications in other AEC software platfomrs like Speckle,Autodesk Platform Services,etc to streamline AEC workflows.
 
-Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer while understanding the product and client's need.
+Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer while understanding the product and client's need. As a software engineering I am interested in ML & data pipelines with various AEC applications.
 
-Passionate about 3D geometry data and leveraging machine learning to optimize production efficiency in AEC. Determined to develop computational design pipelines, AI & data pipelines, and BIM automation pipelines.
+Currently seeking expertise in machine learning, data engineering, cloud computing,and full-stack development with a focus on back-end.
 
-Currently seeking expertise in machine learning, data engineering, cloud computing,and full-stack development with a focus on back-end. 
+Passionate about 3D geometry data and CAD datasets,I want to develop computational design, computational engineering pipelines,BIM
+automation pipelines by leveraging advanced machine learning & Data Engineering techniques.
 
 Driven to contribute to cutting-edge research and development in the AEC software domain, combining architectural,
 Dfma Knowledge and past experience in Robotic Fabrication.
