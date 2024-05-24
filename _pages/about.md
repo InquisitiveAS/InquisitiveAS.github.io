@@ -13,11 +13,11 @@ redirect_from:
 
 *"I love to sketch humans(speed-sketching),weight lifting, going on trails, and love cooking . I love coffee-hoping,food-tasting,wine-tasing on weekends. I am learning to play RAV-VAST Steel tongue drum" ~ My free time*
 
-*Architecture,Technology and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster.*
+*AEC Tech, Biomaterials and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster. Its the fuel which drives me*
 
 *I independently vlog my journey about Architectural Robotics ~ [exdAS](https://vimeo.com/exdas) since 2015.*
 
-*exDAS means "Exploratory discourse for architectural systems".Architectural Systems is agnostic  is a metaphor*
+*exDAS means "Exploratory discourse for architectural systems".Architectural Systems is just a metaphor !!*
 
 A former architect transitioned into computational design, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications in other AEC softwares like Speckle,APS,etc to streamline AEC workflows. 
 
