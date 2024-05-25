@@ -9,11 +9,11 @@ redirect_from:
 
 A former architect turned computational designer, currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Revit, Rhino, Speckle, and Autodesk Platform Services. 
 
-Aiming to become an accomplished AEC ML|Data Engineer with a future goal of becoming a Senior AEC ML engineer, while deeply understanding product and client needs in the AEC industry.
+Aiming to become an accomplished AEC ML-Data Engineer with a future goal of becoming a Senior AEC ML engineer, while deeply understanding product and client needs in the AEC industry.
 
-I am expanding my skillset of AEC application development to include Machine learning | AI engineering, focusing on developing machine learning pipelines in collaboration with ML experts, data scientists, data engineers, and analysts. 
+I am expanding my skillset of AEC application development to include Machine learning-AI engineering, focusing on developing machine learning pipelines in collaboration with ML experts, data scientists, data engineers, and analysts. 
 
-My future work would address complex AEC problems such as photogrammetry, point cloud processing, construction robotics, computer vision, NLP, image processing, DfMA, and robotic fabrication. Currently at TYLin, I am exploring my ML|Data Engineer journey in Structural Engineering applications apart from BIM Application development.
+My future work would address complex AEC problems such as photogrammetry, point cloud processing, construction robotics, computer vision, NLP, image processing, DfMA, and robotic fabrication. Currently at TYLin, I am exploring my ML-Data Engineer journey in Structural Engineering applications apart from BIM Application development.
 
 Passionate about AEC 3D datasets, I aim to develop computational design pipelines,and BIM automation pipelines using advanced machine learning and data engineering techniques. Currently, I am seeking expertise in machine learning, data sciences, cloud computing, and back-end development, while learning state-of-the-art frameworks and libraries to identify the best technology stack for my goals.
 
