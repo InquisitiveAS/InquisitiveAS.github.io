@@ -15,23 +15,21 @@ redirect_from:
 
 *AEC Tech, Biomaterials and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster. Its the fuel which drives me*
 
-*I independently vlog my journey about Architectural Robotics ~ [exdAS](https://vimeo.com/exdas) since 2015.*
+*I independently vlog my journey about Architectural Robotics ~ [exdAS](https://vimeo.com/exdas) since 2015. Will be back soon on those vlogs.*
 
 *exDAS means "Exploratory discourse for architectural systems".Architectural Systems is just a metaphor !!*
 
 A former architect working as computational designer, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications in other AEC software platfomrs like Speckle,Autodesk Platform Services,etc to streamline AEC workflows.
 
-Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer while understanding the product and client's need. As a software engineering I am interested in ML & data pipelines with various AEC applications.
+Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer while understanding the product and client's need. As a software engineer, I am interested in ML & data pipelines with various AEC applications like Vision, NLP,3d Point-cloud & Image Processing.
 
-Currently seeking expertise in machine learning, data engineering, cloud computing,and full-stack development with a focus on back-end.
+Currently seeking expertise in machine learning, Data engineering, Cloud computing,and full-stack development with a focus on back-end.
 
 Passionate about 3D geometry data and CAD datasets,I want to develop computational design, computational engineering pipelines,BIM
 automation pipelines by leveraging advanced machine learning & Data Engineering techniques.
 
 Driven to contribute to cutting-edge research and development in the AEC software domain, combining architectural,
 Dfma Knowledge and past experience in Robotic Fabrication.
-
-
 
 
 
