@@ -7,32 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-*"Dreaming of constructing skyscrapers with data, machine learning, and robots. Can buildings have a mind of their own?" ~ GPT 3.5 prompt asked by me*
+A former architect turned computational designer, currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Revit, Rhino, Speckle, and Autodesk Platform Services. 
 
-*"This is just the beginning, the beginning of understanding that cyberspace has no limits, no boundaries!" ~ Nicholas Negroponte*
+Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer, while deeply understanding product and client needs.
 
-*"I love to sketch humans(speed-sketching),weight lifting, going on trails, and love cooking . I love coffee-hoping,food-tasting,wine-tasing on weekends. I am learning to play RAV-VAST Steel tongue drum" ~ My free time*
+I am expanding my skillset to include machine learning and AI engineering, focusing on developing machine learning pipelines in collaboration with ML experts, data scientists, data engineers, and analysts. 
 
-*AEC Tech, Biomaterials and Robotics is what excites me! I deeply care how this will impact the AEC in the next 25 years and I am excited for the roller-coaster. Its the fuel which drives me*
+My future work would addresses complex AEC problems such as photogrammetry, point cloud processing, construction robotics, computer vision, NLP, image processing, DfMA, and robotic fabrication. While currently, I am exploring Structural Engineering applications.
 
-*I independently vlog my journey about Architectural Robotics ~ [exdAS](https://vimeo.com/exdas) since 2015. Will be back soon on those vlogs.*
+Passionate about AEC 3D datasets, I aim to develop computational design pipelines,and BIM automation pipelines using advanced machine learning and data engineering techniques. Currently, I am seeking expertise in machine learning, data sciences, cloud computing, and back-end development, while learning state-of-the-art frameworks and libraries to identify the best technology stack for my goals.
 
-*exDAS means "Exploratory discourse for architectural systems".Architectural Systems is just a metaphor !!*
-
-A former architect working as computational designer, now specializing in developing plugins/add-ins for Revit, Rhino, and standalone applications in other AEC software platfomrs like Speckle,Autodesk Platform Services,etc to streamline AEC workflows.
-
-Aiming to become an accomplished AEC software developer with a future goal of becoming a senior software engineer while understanding the product and client's need. As a software engineer, I am interested in ML & data pipelines with various AEC applications like Vision, NLP,3d Point-cloud & Image Processing.
-
-Currently seeking expertise in machine learning, Data engineering, Cloud computing,and full-stack development with a focus on back-end.
-
-Passionate about 3D geometry data and CAD datasets,I want to develop computational design, computational engineering pipelines,BIM
-automation pipelines by leveraging advanced machine learning & Data Engineering techniques.
-
-Driven to contribute to cutting-edge research and development in the AEC software domain, combining architectural,
-Dfma Knowledge and past experience in Robotic Fabrication.
-
-
-
+With a unique blend of architectural knowledge, software development expertise, and a strong inclination towards machine learning and data engineering, I am well-positioned to contribute to innovative solutions that revolutionize the AEC industry.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
