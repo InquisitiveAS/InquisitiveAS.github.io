@@ -1,6 +1,6 @@
 ---
 title: "Project-4"
-excerpt: "WIP<br/><img src='/images/bio-photo.jpg'>"
+excerpt: "WIP<br/><img src='/images/wip_portfolio_logo.png'>"
 collection: portfolio
 ---
 
