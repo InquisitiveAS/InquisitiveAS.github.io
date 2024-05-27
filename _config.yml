@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Abhishek Shinde"
-description              : &description "Computational designer & Maker learning ML+Data+Full Stack"
+description              : &description "Computational designer & Maker learning ML+Data+Backend"
 url                      : https://Inquisitiveas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Inquisitiveas.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "headshot_Abhi_r.png"
   name             : "Abhishek Shinde"
   pronouns         :  he/him 
-  bio              : "Gaining skills to be AEC ML|Data Engineer"
+  bio              : "Gaining skills to be AEC ML + Data Engineer for Computational design "
   location         : "Somerville,Massachusetts,USA"
   employer         : "TYLin Silman Structural Solutions"
   uri              : # URL
