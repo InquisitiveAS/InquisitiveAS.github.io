@@ -13,7 +13,7 @@ I am expanding my skillset of AEC application development & Computational design
 
 Aiming to become an accomplished AEC ML Engineer & Data Scientist with a future goal of becoming a Senior AEC Application developer focused on Machine learning & Data Science, while deeply understanding product and client needs in the AEC industry.
 
-Passionate about AEC datasets, my future work would address complex AEC problems such as Point cloud processing, Computer vision, Image processing, Plugins Development for CAD Application and AEC Software development. Currently, I am independently exploring my ML-Data Engineer journey, apart from BIM Application development for Structural Engineering applications at my current job role with TYLin Silman Structural Solutions.
+Passionate about AEC datasets, my future work would address complex AEC problems such as Point cloud processing, Computer vision, Image processing, Plugins Development for CAD Application and AEC Software development. Currently, I am independently exploring my ML-Data Science journey, apart from BIM Application development for Structural Engineering applications at my current job role with TYLin Silman Structural Solutions.
 
 With a unique blend of architectural knowledge, software development expertise, and a strong inclination towards machine learning and data engineering, I am well-positioned to contribute to innovative solutions that revolutionize the AEC industry.
 
