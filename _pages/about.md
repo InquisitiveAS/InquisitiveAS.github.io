@@ -9,9 +9,9 @@ redirect_from:
 
 A former architect turned computational designer, currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Revit, Rhino, Speckle, and Autodesk Platform Services. 
 
-I am expanding my skillset of AEC application development & Computational design, focusing on developing machine learning & data science pipelines in collaboration with ML experts, data scientists, data engineers, and data analysts. 
+I am expanding my skillset of AEC Application Development & Computational design, focusing on developing machine learning & data science pipelines in collaboration with ML experts, data scientists, data engineers, and data analysts. 
 
-Aiming to become an accomplished AEC Machine Learning Engineer on Application developement|Software Development focused on Production side of Machine learning & Data Science, while deeply understanding product and client needs in the AEC industry.
+Aiming to become an accomplished AEC Machine Learning Engineer on Application or Software Development focused on Production side of Machine learning & Data Science, while deeply understanding product and client needs in the AEC industry.
 
 Passionate about AEC datasets, my future work would address complex AEC problems such as Point cloud processing, Computer vision, Image processing, Plugins Development for CAD Application and AEC Software development. Currently, I am independently exploring my ML-Data Science journey, apart from BIM Application development for Structural Engineering applications at my current job role with TYLin Silman Structural Solutions.
 
