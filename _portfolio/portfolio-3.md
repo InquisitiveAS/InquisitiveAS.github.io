@@ -1,6 +1,6 @@
 ---
 title: "ai2Speckle Textures Search"
-excerpt: "Beyond Speckleverse 2024 Hackathon<br/><img src='/images/wip_portfolio_logo.png'>"
+excerpt: "Beyond Speckleverse 2024 Hackathon Project<br/><img src='/images/ai2_speckle_texturesearch.jpg'>"
 collection: portfolio
 ---
 
