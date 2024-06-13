@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-A former architect turned computational designer, currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Revit, Rhino, Speckle, and Autodesk Platform Services. 
+A former architect turned computational designer, developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Revit, Rhino, Speckle, and Autodesk Platform Services.
 
-I am expanding my skillset of AEC Application Development focusing on developing machine learning & data science pipelines in collaboration with ML experts, data scientists, data engineers, and data analysts. 
+Expanding skillset of AEC Application Development focusing on developing machine learning & data science pipelines in collaboration with ML experts, data scientists, data engineers, and data analysts.
 
-Aiming to become an accomplished AEC Machine Learning Engineer focused on Production grade Software development of Machine learning and AI products, while deeply understanding product and client needs in the AEC industry. I am currently gaining expertise in Machine Learning, Data Science and Database pipelines in Backend side in both Python and Javascript ecosystem.
+Aiming to become an accomplished AEC Machine Learning Engineer focused on Production grade Software development of Machine learning and AI products, while deeply understanding product and client needs in the AEC industry. 
 
-Passionate about AEC datasets, my future work would address complex AEC problems such as Point cloud processing, Computer vision, Image processing, Plugins Development for CAD Application. Currently, I am independently exploring my Machine Learning & Database application development, apart from BIM Application development for Structural Engineering applications at my current job role with TYLin Silman Structural Solutions.
+As a Machine Learning Engineer, future work  would address complex AECO dataset problems such as Large Language Model, Point cloud processing, Computer vision, Image processing , DSA algrothims for AECO tasks and Deep Learning Methods.
 
-With a unique blend of architectural knowledge, software development expertise, and a strong inclination towards machine learning and data science, I am well-positioned to contribute to innovative solutions that revolutionize the AEC industry.
+I am currently gaining expertise in Machine Learning, Data Science and Database pipelines in Backend side in both Python and Javascript ecosystem.
+
+With architectural knowledge encompased since 2014, computational design & software development expertise, and inclination towards machine learning and data science,I am well-positioned to contribute to innovative solutions that revolutionize the AECO industry.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
