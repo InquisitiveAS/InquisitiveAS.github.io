@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-A former architect turned computational designer, developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Revit, Rhino, Speckle, and Autodesk Platform Services.
+A former architect turned computational designer & aspiring AEC Software developer. I am currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Rhino, Speckle,Revit and Autodesk Platform Services.
 
 Expanding skillset of AEC Application Development focusing on developing machine learning & data science pipelines in collaboration with ML experts, data scientists, data engineers, and data analysts.
 
 Aiming to become an accomplished AEC Machine Learning Engineer focused on Production grade Software development of Machine learning and AI products, while deeply understanding product and client needs in the AEC industry. 
 
-As a Machine Learning Engineer, future work  would address complex AECO dataset problems such as Large Language Model, Computer Graphics,Simulation,Point cloud processing, Computer vision, Image processing, DSA algrothims for AECO tasks and Deep Learning Methods.
+As a AEC Machine Learning Engineer, future work  would address complex AECO dataset problems such as Large Language Model, Geometry datasets, Computer Graphics Simulation,Point cloud processing, Computer vision, Image processing, DSA algrothims for AECO tasks and Deep Learning Methods.
 
 I am currently gaining expertise in Machine Learning, Data Science and Database pipelines in Backend side in both Python and Javascript ecosystem.
 
