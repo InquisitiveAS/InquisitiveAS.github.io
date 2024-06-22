@@ -13,7 +13,7 @@ Expanding skillset of AEC Application Development focusing on developing machine
 
 Aiming to become an accomplished AEC Machine Learning Engineer focused on Production grade Software development of Machine learning and AI products, while deeply understanding product and client needs in the AEC industry. 
 
-As a AEC Machine Learning Engineer, future work  would address complex AECO dataset problems such as Large Language Model, Geometry datasets, Computer Graphics Simulation,Point cloud processing, Computer vision, Image processing, DSA algrothims for AECO tasks and Deep Learning Methods.
+As a AEC Machine Learning Engineer, future work  would address complex AECO dataset problems such as Large Language Model, Geometry datasets, Computer Graphics,Point cloud processing, Computer vision, Image processing, DSA implementations and Deep learning methods
 
 I am currently gaining expertise in Machine Learning, Data Science and Database pipelines in Backend side in both Python and Javascript ecosystem.
 
