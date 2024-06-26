@@ -16,6 +16,7 @@ and to learn more from them.
 
 "AI2Speckle: Textures Search" is a React Web application which imports 3D models into Speckle 3D Object loaded, uses AI to generate renderings, extracts material patches from the renderings with some more AI, and reintegrates them back into the model."
 
-Please vote and like for the project . You can find the project on Github
+The hackathon project won the popular vote by the judges. You can find the project on Github
 
 [More information here](https://devpost.com/software/ai2speckle-textures-search)
+
