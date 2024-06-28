@@ -15,7 +15,7 @@ Aiming to become an accomplished AEC Machine Learning Engineer focused on Produc
 
 As a AEC Machine Learning Engineer, future work  would address complex AECO dataset problems such as CAD-Large Language Model, Geometry-heavy computing,Point cloud processing, Computer vision, Image processing, DSA implementations and Deep learning for BIM.
 
-I am currently gaining expertise in Machine Learning, Data Science and Database pipelines in Backend side in both Python and Javascript ecosystem.
+I am currently gaining expertise in Machine Learning, Data Science and Database pipelines from the Backend side in both Python and Javascript ecosystem.
 
 With architectural knowledge encompased since 2014, computational design & software development expertise, and inclination towards machine learning and data science,I am well-positioned to contribute to innovative solutions that revolutionize the AECO industry.
 
