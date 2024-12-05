@@ -10,4 +10,4 @@ collection: portfolio
 
 -->
 
-This is a work in progress project 
+This is a work in progress open source project  
