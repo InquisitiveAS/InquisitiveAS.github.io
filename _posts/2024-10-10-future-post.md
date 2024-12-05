@@ -10,4 +10,5 @@ tags:
 
 <!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. --> 
 
-Coming soon ! Please dont look at the date
+Moving forward I will be posting about my open source projects on Medium Blogpost about the technical documentation and the literature review for
+the same
