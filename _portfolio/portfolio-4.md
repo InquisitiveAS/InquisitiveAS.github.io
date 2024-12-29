@@ -1,5 +1,5 @@
 ---
-title: "Project-4"
+title: "OCKGDM"
 excerpt: "WIP<br/><img src='/images/wip_portfolio_logo.png'>"
 collection: portfolio
 ---
@@ -10,4 +10,4 @@ collection: portfolio
 
 -->
 
-This is a work in progress open source project  
+This is a work in progress open source project inspired by my independent research on LLMs for AEC Optimization. Please stay tuned 
