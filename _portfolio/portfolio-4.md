@@ -10,4 +10,4 @@ collection: portfolio
 
 -->
 
-This is a work in progress open source project inspired by my independent research on LLMs for AEC Optimization. Please stay tuned 
+This is a work in progress open source project inspired by my independent research on LLMs for AEC Optimization. Please stay tuned !!
