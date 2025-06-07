@@ -17,7 +17,7 @@ Education
 Work experience
 ====== 
 * TYLin Silman Structural Solutions(February2020 - Present)
-  * Responsiblities: PyRevit Add-in developer , Revit API, Large Language Model,Copilot Studio, Speckle Full Stack, Autodesk FullStack development, Machine Learning 
+  * Responsiblities: Computational Design(Rhino3D & Grasshopper3D), PyRevit Add-in developer , Revit API C#, Full Stack workflows(Speckle & Autodesk Platform Services)
   * Supervisor: Justin Den Herder 
 
 * Island Exterior Fabricators LLC(April 2020 - January 2023)
