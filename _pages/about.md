@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A former architect turned computational designer & aspiring AEC Software developer. I am currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Rhino,Speckle,Revit and Autodesk Platform Services.
+A former architect turned computational designer & aspiring AEC Software developer. I am currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Rhino, Speckle,Revit, Autodesk Platform Services(APS) and Full Stack Web applications for 3D environment.  
 
 Expanding skillset of AEC Application Development focusing on developing machine learning & data science pipelines in collaboration with ML experts, data scientists, data engineers, and data analysts who wants to solve AEC problems.
 
