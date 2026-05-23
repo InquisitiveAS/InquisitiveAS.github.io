@@ -7,8 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="portfolio-grid">
+  {% for post in site.portfolio %}
+    {% assign tile_image = post.image | default: post.header.teaser %}
+    <a class="portfolio-tile" href="{% if post.link %}{{ post.link }}{% else %}{{ base_path }}{{ post.url }}{% endif %}"
+       {% if post.link %}target="_blank" rel="noopener"{% endif %}
+       aria-label="{{ post.title | strip_html }}">
+      <div class="portfolio-tile__media">
+        {% if tile_image %}
+          <img src="{{ tile_image | relative_url }}" alt="{{ post.title | strip_html }}" loading="lazy">
+        {% else %}
+          <div class="portfolio-tile__placeholder" aria-hidden="true">
+            <i class="fas fa-image"></i>
+          </div>
+        {% endif %}
+      </div>
+      <div class="portfolio-tile__body">
+        <h3 class="portfolio-tile__title">{{ post.title | strip_html }}</h3>
+        {% if post.subtitle %}
+          <p class="portfolio-tile__subtitle">{{ post.subtitle }}</p>
+        {% endif %}
+      </div>
+    </a>
+  {% endfor %}
+</div>
 

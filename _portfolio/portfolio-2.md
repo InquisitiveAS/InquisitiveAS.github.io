@@ -1,5 +1,7 @@
 ---
-title: "SilmanECT Generator(Silman Analytics)"
+title: "SilmanECT Generator (Silman Analytics)"
+subtitle: "PyRevit Add-in · Silman TYLin"
+image: /images/02_portfolio_2.png
 excerpt: "PyRevit Add-in at Silman TYLin<br/>Embodied Carbon Optioneering suite for Structural Engineers<br/><img src='/images/02_portfolio_2.png'>"
 collection: portfolio
 ---

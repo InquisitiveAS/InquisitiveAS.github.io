@@ -1,5 +1,7 @@
 ---
 title: "OCKGDM"
+subtitle: "Work in progress · LLM × AEC research"
+image: /images/wip_portfolio_logo.png
 excerpt: "WIP<br/><img src='/images/wip_portfolio_logo.png'>"
 collection: portfolio
 ---
