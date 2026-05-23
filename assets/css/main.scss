@@ -39,3 +39,213 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Theme toggle button
+   ========================================================================== */
+
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  transform: translateY(-50%);
+  background: transparent;
+  border: 1px solid rgba(127, 127, 127, 0.35);
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  cursor: pointer;
+  color: inherit;
+  font-size: 14px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  z-index: 30;
+}
+
+.theme-toggle:hover {
+  background: rgba(127, 127, 127, 0.15);
+}
+
+.theme-toggle i {
+  pointer-events: none;
+}
+
+/* ==========================================================================
+   Dark mode
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  background-color: #1a1a1a;
+  color: #e6e6e6;
+
+  body {
+    background-color: #1a1a1a;
+    color: #e6e6e6;
+  }
+
+  .masthead {
+    background-color: #1f1f1f;
+    border-bottom-color: #333;
+  }
+
+  .masthead__inner-wrap,
+  .greedy-nav,
+  .greedy-nav a {
+    background-color: transparent;
+    color: #e6e6e6;
+  }
+
+  .greedy-nav a:hover {
+    color: #ffffff;
+  }
+
+  .greedy-nav .visible-links a:before {
+    background: #E85D04;
+  }
+
+  .greedy-nav button {
+    background-color: transparent;
+    color: #e6e6e6;
+  }
+
+  .hidden-links {
+    background: #242424;
+  }
+
+  .hidden-links a {
+    color: #e6e6e6;
+  }
+
+  .hidden-links a:hover {
+    background: #2e2e2e;
+    color: #ffffff;
+  }
+
+  .page__content,
+  .page__title,
+  .archive__item-title,
+  .author__name,
+  .author__bio,
+  .author__urls,
+  .author__urls li,
+  .sidebar,
+  .sidebar p,
+  .sidebar h3,
+  .sidebar h4 {
+    color: #e6e6e6;
+  }
+
+  .author__urls a,
+  .author__urls a span {
+    color: #e6e6e6;
+  }
+
+  .author__urls a:hover {
+    color: #ffffff;
+  }
+
+  a {
+    color: #6cb6ff;
+  }
+
+  a:hover {
+    color: #9ccfff;
+  }
+
+  .page__footer,
+  .page__footer-copyright,
+  .page__footer-follow {
+    background-color: #1f1f1f;
+    color: #b3b3b3;
+  }
+
+  .page__footer a {
+    color: #b3b3b3;
+  }
+
+  .page__footer a:hover {
+    color: #ffffff;
+  }
+
+  hr,
+  .author__urls.social-icons,
+  .page__content blockquote {
+    border-color: #333;
+  }
+
+  blockquote {
+    color: #cccccc;
+  }
+
+  code,
+  tt {
+    background: #2a2a2a;
+    color: #f0c674;
+  }
+
+  pre,
+  div.highlighter-rouge,
+  figure.highlight {
+    background-color: #161616;
+    color: #e6e6e6;
+    border-color: #333;
+  }
+
+  pre code {
+    background: transparent;
+    color: inherit;
+  }
+
+  table {
+    color: #e6e6e6;
+  }
+
+  table th {
+    background-color: #2a2a2a;
+    border-color: #333;
+    color: #ffffff;
+  }
+
+  table td {
+    border-color: #333;
+  }
+
+  input,
+  textarea,
+  select {
+    background-color: #2a2a2a;
+    color: #e6e6e6;
+    border-color: #333;
+  }
+
+  .notice,
+  .notice--primary,
+  .notice--info,
+  .notice--warning,
+  .notice--success,
+  .notice--danger {
+    background-color: #2a2a2a;
+    color: #e6e6e6;
+  }
+
+  .archive__item-excerpt {
+    color: #cccccc;
+  }
+
+  .theme-toggle {
+    border-color: rgba(230, 230, 230, 0.35);
+    color: #f5d76e;
+  }
+
+  .theme-toggle:hover {
+    background: rgba(255, 255, 255, 0.08);
+  }
+}
+
+html[data-theme="light"] .theme-toggle {
+  color: #5c544a;
+}
