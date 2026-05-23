@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>dāsa · Geodesic sphere</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@300;400;500;600;700&family=Space+Grotesk:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --saffron: #E85D04;
+    --cream:   #F6F1E8;
+    --ink:     #1A1A1A;
+    --ink-soft:#5C544A;
+  }
+  html, body {
+    margin: 0; padding: 0; height: 100%; overflow: hidden;
+    background: var(--cream); color: var(--ink);
+    font-family: "Space Grotesk", system-ui, sans-serif;
+  }
+  #scene { position: fixed; inset: 0; cursor: grab; }
+  #scene canvas { display: block; width: 100% !important; height: 100% !important; }
+  #scene:active { cursor: grabbing; }
+
+  /* Hairline corner registration marks */
+  .corner {
+    position: fixed; width: 14px; height: 14px;
+    border: 0 solid var(--ink); pointer-events: none; z-index: 3;
+  }
+  .corner.tl { top: 24px; left: 24px; border-top-width: 1px; border-left-width: 1px; }
+  .corner.tr { top: 24px; right: 24px; border-top-width: 1px; border-right-width: 1px; }
+  .corner.bl { bottom: 24px; left: 24px; border-bottom-width: 1px; border-left-width: 1px; }
+  .corner.br { bottom: 24px; right: 24px; border-bottom-width: 1px; border-right-width: 1px; }
+
+  .lockup {
+    position: fixed; inset: 0; pointer-events: none; z-index: 2;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+  }
+  .glyph-row { display: flex; align-items: baseline; }
+  .deva {
+    font-family: "Noto Sans Devanagari", serif;
+    color: var(--ink); line-height: 1;
+    font-size: clamp(96px, 18vw, 240px);
+    letter-spacing: -0.02em;
+  }
+  .latin {
+    font-family: "Space Grotesk", sans-serif;
+    color: var(--saffron); line-height: 1;
+    font-weight: 500;
+    font-size: clamp(68px, 12.6vw, 168px);
+    margin-left: clamp(6px, 0.8vw, 12px);
+    letter-spacing: -0.04em;
+  }
+  .rule {
+    width: clamp(80px, 12vw, 160px);
+    height: 1px; background: var(--ink); opacity: 0.55;
+    margin: clamp(16px, 2.2vw, 28px) 0 clamp(12px, 1.4vw, 18px);
+  }
+  .tag {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: clamp(10px, 0.9vw, 12px);
+    letter-spacing: 0.3em; color: var(--ink-soft);
+    text-transform: uppercase;
+  }
+
+  .meta {
+    position: fixed; left: 40px; bottom: 32px; z-index: 3;
+    font-family: "JetBrains Mono", monospace; font-size: 10px;
+    letter-spacing: 0.25em; color: var(--ink-soft); text-transform: uppercase;
+  }
+  .meta strong { color: var(--saffron); font-weight: 500; margin-right: 10px; }
+  .hint {
+    position: fixed; right: 40px; bottom: 32px; z-index: 3;
+    font-family: "JetBrains Mono", monospace; font-size: 10px;
+    letter-spacing: 0.25em; color: var(--ink-soft); text-transform: uppercase;
+  }
+</style>
+</head>
+<body>
+<div id="scene"></div>
+
+<span class="corner tl"></span>
+<span class="corner tr"></span>
+<span class="corner bl"></span>
+<span class="corner br"></span>
+
+<div class="lockup">
+  <div class="glyph-row">
+    <span class="deva">दा</span>
+    <span class="latin">AS</span>
+  </div>
+  <div class="rule"></div>
+  <div class="tag">distributed architectural system</div>
+</div>
+
+<div class="meta"><strong>11121</strong>AEC tech · structure eng · facades · deep learning &amp; full stack · DFMA · geometry</div>
+<div class="hint">move cursor / drag</div>
+
+<script src="https://unpkg.com/three@0.160.0/build/three.min.js"></script>
+<script>
+(() => {
+  const el = document.getElementById('scene');
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(45, 1, 0.1, 100);
+  camera.position.set(0, 0, 5);
+
+  const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+  renderer.setClearColor(0x000000, 0);
+  el.appendChild(renderer.domElement);
+
+  // Outer charcoal wireframe icosahedron
+  const outerGeo  = new THREE.IcosahedronGeometry(1.55, 2);
+  const outerWire = new THREE.WireframeGeometry(outerGeo);
+  const outer     = new THREE.LineSegments(outerWire, new THREE.LineBasicMaterial({
+    color: 0x1a1a1a, transparent: true, opacity: 0.55,
+  }));
+  scene.add(outer);
+
+  // Inner saffron wireframe icosahedron
+  const innerGeo  = new THREE.IcosahedronGeometry(1.1, 1);
+  const innerWire = new THREE.WireframeGeometry(innerGeo);
+  const inner     = new THREE.LineSegments(innerWire, new THREE.LineBasicMaterial({
+    color: 0xE85D04, transparent: true, opacity: 0.9,
+  }));
+  scene.add(inner);
+
+  const mouse = { x: 0, y: 0 };
+  window.addEventListener('pointermove', (e) => {
+    mouse.x = (e.clientX / window.innerWidth)  * 2 - 1;
+    mouse.y = -((e.clientY / window.innerHeight) * 2 - 1);
+  });
+
+  const size = () => {
+    const w = window.innerWidth, h = window.innerHeight;
+    renderer.setSize(w, h, false);
+    camera.aspect = w / h;
+    camera.updateProjectionMatrix();
+  };
+  size();
+  window.addEventListener('resize', size);
+
+  const loop = () => {
+    outer.rotation.y += 0.003;
+    outer.rotation.x  = mouse.y * 0.4;
+    outer.rotation.z  = mouse.x * 0.2;
+    inner.rotation.y -= 0.006;
+    inner.rotation.x  = mouse.y * 0.6;
+    renderer.render(scene, camera);
+    requestAnimationFrame(loop);
+  };
+  loop();
+})();
+</script>
+</body>
+</html>
