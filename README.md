@@ -1,9 +1,57 @@
 
 # About
 
-This is a github io website for Abhishek Shinde 
-Stay Humble and Keep Learning  
-Striving to be a good developer 
+This is a github io website for Abhishek Shinde
+Stay Humble and Keep Learning
+Striving to be a good developer
+
+## Portfolio tiles — image guide
+
+Tiles on `/portfolio/` are rendered as a 2-column grid with a fixed
+**4:3 aspect ratio** and `object-fit: cover`, meaning any image you drop
+in will be cropped to fit. Use these specs so new tiles render cleanly:
+
+| Spec              | Value                                                  |
+| ----------------- | ------------------------------------------------------ |
+| Aspect ratio      | **4:3** (anything else gets cropped center)            |
+| Recommended size  | **1600 × 1200 px** (looks crisp on retina/4K displays) |
+| Minimum size      | 800 × 600 px                                           |
+| Formats           | `.png`, `.jpg` (static) or `.gif` (animated)           |
+| Max file size     | PNG/JPG: ~500 KB · GIF: ~2 MB (page load + mobile)     |
+| Location          | `/images/` folder, referenced as `/images/<name>.ext`  |
+
+### Adding a new portfolio tile
+
+Create `_portfolio/portfolio-<n>.md` with this frontmatter:
+
+```yaml
+---
+title: "Your Project Name"
+subtitle: "Short caption · context · client"
+image: /images/your-tile.png   # or .gif for animated
+collection: portfolio
+---
+
+Detail page body content goes here.
+```
+
+The tile picks up `image`, `title`, and `subtitle` automatically — no
+template editing needed. The tile is fully clickable and leads to the
+detail page rendered from this same file's body.
+
+### Animated GIF tips
+
+- Keep dimensions to **1200 × 900 px or smaller** for animated GIFs to
+  avoid bloating page weight.
+- Tools like [ezgif.com](https://ezgif.com) can resize, crop to 4:3,
+  and optimize the file size.
+- The `<img>` tag plays GIFs automatically — no JS or special markup.
+
+### Subject framing
+
+Because tiles crop to 4:3 center, keep the **main subject in the
+middle 60%** of the frame. Logos and titles too close to the edge
+will be cut off on the rendered tile.
 
 
 <!-- # Academic Pages
