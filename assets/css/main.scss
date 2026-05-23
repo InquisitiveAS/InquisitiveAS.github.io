@@ -244,6 +244,194 @@ html[data-theme="dark"] {
   .theme-toggle:hover {
     background: rgba(255, 255, 255, 0.08);
   }
+
+  /* Headings and content borders */
+  .page__content h1,
+  .page__content h2,
+  .page__content h3,
+  .page__content h4,
+  .page__content h5,
+  .page__content h6 {
+    color: #ffffff;
+  }
+
+  .page__content h2 {
+    border-bottom-color: #333;
+  }
+
+  .archive__subtitle {
+    border-bottom-color: #333;
+    color: #b3b3b3;
+  }
+
+  .archive__item-title a {
+    color: #e6e6e6;
+  }
+
+  .archive__item-title a:hover {
+    color: #ffffff;
+  }
+
+  /* Page meta, share, related, comments dividers */
+  .page__meta {
+    color: #b3b3b3;
+  }
+
+  .page__share,
+  .page__related,
+  .page__comments {
+    border-top-color: #333;
+  }
+
+  .page__content + .pagination,
+  .page__meta + .pagination,
+  .page__share + .pagination,
+  .page__comments + .pagination {
+    border-top-color: #333;
+  }
+
+  .page__related-title {
+    color: #e6e6e6;
+    border-bottom-color: #333;
+  }
+
+  /* Pagination */
+  .pagination li a {
+    color: #b3b3b3;
+    border-color: #333;
+    background-color: transparent;
+  }
+
+  .pagination li a:hover {
+    color: #ffffff;
+    background-color: #2a2a2a;
+  }
+
+  .pagination li a.current {
+    color: #ffffff;
+    background-color: #E85D04;
+    border-color: #E85D04;
+  }
+
+  .pagination--pager {
+    color: #b3b3b3;
+    border-color: #333;
+  }
+
+  .pagination--pager:hover {
+    color: #ffffff;
+  }
+
+  /* Breadcrumbs */
+  .breadcrumbs,
+  .breadcrumbs a {
+    color: #b3b3b3;
+  }
+
+  .breadcrumbs a:hover {
+    color: #ffffff;
+  }
+
+  /* Sidebar author profile */
+  .author__avatar img {
+    border-color: #333;
+  }
+
+  .author__urls {
+    background: transparent;
+    border-color: #333;
+  }
+
+  .author__urls::before {
+    border-color: #333 transparent;
+  }
+
+  .author__urls::after {
+    border-color: #1a1a1a transparent;
+  }
+
+  .author__urls li a {
+    color: #e6e6e6;
+  }
+
+  .author__urls li a:hover {
+    color: #ffffff;
+  }
+
+  .sidebar .author__name {
+    color: #ffffff;
+  }
+
+  .sidebar .author__pronouns,
+  .sidebar .author__bio {
+    color: #cccccc;
+  }
+
+  /* Buttons */
+  .btn--inverse {
+    color: #e6e6e6 !important;
+    background-color: transparent;
+    border-color: #444 !important;
+  }
+
+  .btn--inverse:hover {
+    color: #ffffff !important;
+    background-color: #2a2a2a;
+    border-color: #666 !important;
+  }
+
+  /* Taxonomy chips */
+  .page__taxonomy-item {
+    color: #e6e6e6;
+    border-color: #333;
+    background-color: #2a2a2a;
+  }
+
+  .page__taxonomy-item:hover {
+    background-color: #333;
+    color: #ffffff;
+  }
+
+  /* Talk-layout sidebar (talks pages) */
+  .talk-venue-location {
+    color: #b3b3b3;
+  }
+
+  /* Page hero overlay text stays light (it's over an image) — leave as-is */
+
+  /* Toc/sidebar nav links if present */
+  .nav__list .nav__items a {
+    color: #e6e6e6;
+  }
+
+  .nav__list .nav__items a:hover {
+    color: #ffffff;
+  }
+
+  /* Search results */
+  .search-content input {
+    background-color: #1a1a1a;
+    color: #e6e6e6;
+    border-bottom-color: #333;
+  }
+
+  /* Image teaser hover shadow — slightly brighter on dark bg */
+  .archive__item:hover .archive__item-teaser {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.15);
+  }
+
+  .page__content a:hover img {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.15);
+  }
+
+  /* Footer social icons */
+  .page__footer-follow .social-icons a {
+    color: #b3b3b3;
+  }
+
+  .page__footer-follow .social-icons a:hover {
+    color: #ffffff;
+  }
 }
 
 html[data-theme="light"] .theme-toggle {
