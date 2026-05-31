@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+==========
 * M.Sc, Digital Technologies & Material Systems : University of Michigan,Ann Arbor (June2018-June 2019)
 * B.Sc, Architecture : L.S. Raheja School of Architecture: University of Mumbai,India (June 2009-June 2014)
 
 Work experience
-====== 
+================
 * TYLin Silman Structural Solutions(February2020 - Present)
   * Responsiblities: Computational Design(Rhino3D & Grasshopper3D), PyRevit Add-in developer , Revit API C#, Full Stack workflows(Speckle & Autodesk Platform Services)
   * Supervisor: Justin Den Herder 
@@ -29,7 +29,7 @@ Work experience
   * Supervisor: Arash Adel
 
 Technology Stack 
-======
+================
 * Languages 
   * Python , C#/.NET, Javascript, C++
 * Data Science
@@ -58,12 +58,12 @@ Technology Stack
   *  Onsrud 3 Axis CNC Milling,MasterCAM,Zund Knife Cutter, Laser Cutting,3D printing, KUKA PRC
 
 Certifications
-=======
+===============
 
 Work In Progress 
 
 Publications
-======
+============
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -75,13 +75,13 @@ Talks
   {% endfor %}</ul>
   
 Teaching
-======
+========
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Hackathons,Conference Participation
-======
+====================================
 * Speckle Hackathon 2024
 * AAG 2025
 * ACADIA 2025
