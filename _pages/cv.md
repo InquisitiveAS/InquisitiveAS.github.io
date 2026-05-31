@@ -83,7 +83,8 @@ Teaching
 Hackathons,Conference Participation
 ======
 * Speckle Hackathon 2024
-* AAG 2022
+* AAG 2025
+* ACADIA 2025
 * Digital Futures World 2021.
 * ACADIA 2021
 * ACADIA 2018
