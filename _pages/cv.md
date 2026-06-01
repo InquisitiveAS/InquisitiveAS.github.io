@@ -82,9 +82,16 @@ Teaching
   
 Hackathons,Conference Participation
 ====================================
-* Speckle Hackathon 2024
-* AAG 2025
-* ACADIA 2025
-* Digital Futures World 2021.
+
 * ACADIA 2021
+* Digital Futures World 2021
 * ACADIA 2018
+* ACADIA 2024
+* AUTODESK UNIVERSITY 2024 (Conference Speaker and Presenter)
+* AEC TECH 2024
+* Speckle Hackathon 2024 (Winning Entry)
+* AAG 2025
+* AEC TECH 2025
+* SIDARA Hackathon 2025 (Winning Entry)
+
+
