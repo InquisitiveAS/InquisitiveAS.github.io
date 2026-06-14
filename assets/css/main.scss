@@ -177,6 +177,20 @@
 }
 
 /* ==========================================================================
+   Author avatar — force perfect circle (override theme default)
+   ========================================================================== */
+
+.author__avatar img {
+  width: 175px !important;
+  height: 175px !important;
+  max-width: 175px !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50% !important;
+}
+
+/* ==========================================================================
    Dark mode
    ========================================================================== */
 
