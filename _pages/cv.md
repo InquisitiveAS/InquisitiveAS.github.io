@@ -91,7 +91,7 @@ Hackathons,Conference Participation
 * AEC TECH 2024
 * Speckle Hackathon 2024 (Winning Entry)
 * AAG 2025
-* AEC TECH 2025
+* AEC TECH Hackathaon 2025(Participation)
 * SIDARA Hackathon 2025 (Winning Entry)
 
 
