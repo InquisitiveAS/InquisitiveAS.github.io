@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-A former architect turned computational designer & aspiring AEC Software developer. I am currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Rhino, Speckle,Revit, Autodesk Platform Services(APS) and Full Stack Web applications for 3D environment.  
+A former architect turned computational designer & aspiring AEC Software developer. I am currently developing plugins, add-ins, and standalone applications for the AEC software ecosystem, including Rhino, Speckle,Revit, Autodesk Platform Services(APS) and Full Stack Web applications for 3D environment mostly focused on BIM Automation and Computational Design tool development.
 
-Expanding skillset of AEC Application Development focusing on developing machine learning & data science pipelines in collaboration with ML experts, data scientists, data engineers, and data analysts who wants to solve AEC problems.
+Expanding skillset of AEC Application Development focusing on developing machine learning & data science pipelines in collaboration with ML experts, data scientists, data engineers, and data analysts who wants to solve AEC problem.
 
 Aiming to become an accomplished AEC Machine Learning Engineer focused on Production grade Software development of Machine learning and AI products, while deeply understanding product and client needs in the AEC industry. 
 
-As a AEC Machine Learning Engineer, future work would address complex AECO dataset problems such as Computational Geometry aided Machine Learning, CAD-Large Language Model workflow, Geometry-heavy computing,Point cloud processing, Computer vision, Image processing, DSA implementations, Deep learning for AEC Tech workflows, Finite Element Analysis & Multi-objective 
-optimization for Structural Systems.
+As a AEC Machine Learning Engineer, future work would address complex AECO dataset problems such as Computational Geometry aided Machine Learning, CAD-Large Language Model workflow, Geometry-heavy computing,Geometry & Point cloud processing, Computer vision, Image processing, DSA implementations, Deep learning for AEC Tech workflows, Finite Element Analysis & Multi-objective optimization for Structural Systems, DfMA & Robotic Fabrication research.
 
 I am currently gaining expertise in Machine Learning, Data Science and Backend development in both Python and Javascript ecosystem.
 
