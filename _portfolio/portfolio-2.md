@@ -1,8 +1,8 @@
 ---
-title: "SilmanECT Generator (Silman Analytics)"
-subtitle: "PyRevit Add-in · Silman TYLin"
+title: "TYLinECMQT(TYLin Analytics)"
+subtitle: "PyRevit Add-in · TYLin(formerly Silman)"
 image: /images/02_portfolio_2.png
-excerpt: "PyRevit Add-in at Silman TYLin<br/>Embodied Carbon Optioneering suite for Structural Engineers<br/><img src='/images/02_portfolio_2.png'>"
+excerpt: "PyRevit Add-in at TYLin(formerly Silman)<br/>Embodied Carbon Optioneering suite for Structural Engineers<br/><img src='/images/02_portfolio_2.png'>"
 collection: portfolio
 ---
 
@@ -12,5 +12,5 @@ collection: portfolio
 
 -->
 
-This is a suite of buttons developed using PyRevit(Revit Add-in) for generating Embodied Carbon Tracking(ECT) Reports from a Revit File(structural model) hosted on ACC or BIM360 and then connecting to a database in SQL and Speckle Dashboard. This will allow the architect and the structural engineer to compare their Embodied Carbon Report for different stages like Schematic Design(SD), Design Development (DD), and ConstructionDocumentation(CD)
+This is a suite of buttons developed using PyRevit(Revit Add-in) for generating Embodied Carbon Tracking(ECT) Reports from a Revit File(structural model) hosted on ACC or BIM360 and then connecting to a database in SQL and Speckle Dashboard. This will allow the structural engineer to compare their Embodied Carbon Report for different stages like Schematic Design(SD), Design Development (DD), and ConstructionDocumentation(CD) as per the SE 2050 Report Submission. 
 

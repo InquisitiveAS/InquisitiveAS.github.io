@@ -1,8 +1,8 @@
 ---
-title: "Silman ConColScheduler"
-subtitle: "PyRevit Add-in · Silman TYLin"
+title: "TYLinConColScheduler(TYLin Analytics)"
+subtitle: "PyRevit Add-in · TYLin(formerly Silman)"
 image: /images/01_portfolio_1.png
-excerpt: "PyRevit Add-in at Silman TYLin<br/>Graphical Column Schedule Excel tool for Concrete Elements<br/><img src='/images/01_portfolio_1.png'>"
+excerpt: "PyRevit Add-in at TYLin(formerly Silman)<br/>Graphical Column Schedule Excel tool for Concrete Elements<br/><img src='/images/01_portfolio_1.png'>"
 collection: portfolio
 ---
 
