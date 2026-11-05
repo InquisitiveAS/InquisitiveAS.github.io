@@ -1,8 +1,8 @@
 ---
-title: "Project 5 — Placeholder"
-subtitle: "Replace this subtitle · TBD"
-image: /images/wip_portfolio_logo.png
-excerpt: "Placeholder portfolio entry — replace title, subtitle, image, and body."
+title: "Nested Stainless Steel Jitterbug Duo"
+subtitle: " Vector Equilibrium Jitterbug by Buckminster Fuller"
+image: /images/05_portfolio_2.png
+excerpt: "Beyond Speckleverse 2024 Hackathon Project<br/><img src='/images/05_portfolio_2.png'>"
 collection: portfolio
 ---
 
@@ -15,8 +15,18 @@ Edit this file (_portfolio/portfolio-5.md) to fill in:
 
 Recommended image: 1600 x 1200 px, 4:3, PNG/JPG/GIF.
 See README → "Portfolio tiles — image guide" for full specs.
--->
 
 Describe the project here. What problem did it solve? What tech stack
 was used? What was your role? Link out to a repo, paper, or demo if
 relevant.
+-->
+
+
+Eight hinged triangles witrh 24 Edges of constant length, twisting the vector equilibrium through a
+icosahedron into the octahedron.
+
+How the motion is modelled: the 12 vertices follow the jitterbug’s exact path. All 24 edges keep the same length while the eight triangles turn on their 3-fold axes, up to 60°. The volume readout tracks Fuller’s tetra units the whole way: 20 for the vector equilibrium, 18.51 for the icosahedron and 4 for the octahedron. I checked those three values against the code.
+
+What is my interpretation: each triangle is a double-layer truss with braced sides, short tabs, and an eyelet at each corner where it hinges to its neighbour. I based that on the rods and eyelets in your photos, but I couldn’t trace every member of the actual sculpture. Any rods or braces that don’t match the original may be my invention.
+
+[More information here](https://devpost.com/software/ai2speckle-textures-search)
