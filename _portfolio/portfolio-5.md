@@ -1,8 +1,8 @@
 ---
 title: "Nested Stainless Steel Jitterbug Duo"
-subtitle: " Vector Equilibrium Jitterbug by Buckminster Fuller"
+subtitle: "Vector Equilibrium Jitterbug by Buckminster Fuller"
 image: /images/05_portfolio_2.png
-excerpt: "Beyond Speckleverse 2024 Hackathon Project<br/><img src='/images/05_portfolio_2.png'>"
+excerpt: "Vector Equilibrium Jitterbug<br/><img src='/images/05_portfolio_2.png'>"
 collection: portfolio
 ---
 

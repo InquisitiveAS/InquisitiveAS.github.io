@@ -1,8 +1,8 @@
 ---
 title: "One Computational Knowledge Graph Data Model(OCKGDM)"
-subtitle: "Work in progress · LLM × AEC research"
+subtitle: "Work in progress · Agents+LLMs+DataScience × AEC research"
 image: /images/wip_portfolio_logo.png
-excerpt: "WIP<br/><img src='/images/wip_portfolio_logo.png'>"
+excerpt: "WIP<br/><img src='/images/04_portfolio_1.png'>"
 collection: portfolio
 ---
 
