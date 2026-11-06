@@ -1,5 +1,5 @@
 ---
-title: "OCKGDM"
+title: "One Computational Knowledge Graph Data Model(OCKGDM)"
 subtitle: "Work in progress · LLM × AEC research"
 image: /images/wip_portfolio_logo.png
 excerpt: "WIP<br/><img src='/images/wip_portfolio_logo.png'>"
@@ -12,4 +12,10 @@ collection: portfolio
 
 -->
 
-This is a work in progress open source project inspired by my independent research on LLMs for AEC Optimization. Please stay tuned !!
+"OCKGDM", short for (One Computational Knowledge Graph Data Model), is an open source data project inspired by my independent research on generating a unitized schema data similar to IFC schema, Speckle Schema and other Data schemas which are used to express the nested relationship in Building Information Model(BIM) within various 
+sectors in Architecture Engineering Construction(AEC) industry. It was first coined by Abhishek Shinde in his
+Autodesk 2024 talk titled 'Optimizing Revit Structural Intelligent Models with Large Language Models and Autodesk Platform Services'.
+
+Since 2024 to 2026, this project is on halt as I had other commitments.Soon this will be revamped and published
+
+Stay tuned !!
