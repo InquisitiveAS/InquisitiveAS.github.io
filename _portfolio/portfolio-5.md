@@ -1,5 +1,5 @@
 ---
-title: "Vector Equilibrium Jitterbug by Buckminster Fuller""
+title: "Vector Equilibrium Jitterbug by Buckminster Fuller"
 subtitle: "Nested Stainless Steel cuboctahedron"
 image: /images/05_portfolio_2.png
 excerpt: "Vector Equilibrium Jitterbug<br/><img src='/images/05_portfolio_2.png'>"
