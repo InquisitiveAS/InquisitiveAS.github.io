@@ -15,6 +15,15 @@ Edit this file (_portfolio/portfolio-10.md) to fill in:
 
 Recommended image: 1600 x 1200 px, 4:3, PNG/JPG/GIF.
 See README → "Portfolio tiles — image guide" for full specs.
+
+Rendered Thumbnail Minimum size: 280 × 210 px 
+
+So the rendered thumbnail size is:
+
+Minimum size: 280 × 210 px
+Larger screens: each thumbnail scales proportionally to the available column width while keeping the same 4:3 ratio
+In other words, the portfolio thumbs are “responsive 4:3 images,” starting at 280 × 210 px.
+
 -->
 
 Describe the project here. What problem did it solve? What tech stack
