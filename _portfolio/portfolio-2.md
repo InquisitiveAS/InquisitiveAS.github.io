@@ -14,3 +14,7 @@ collection: portfolio
 
 This is a suite of buttons developed using PyRevit(Revit Add-in) for generating Embodied Carbon Tracking(ECT) Reports from a Revit File(structural model) hosted on ACC or BIM360 and then connecting to a database in SQL and Speckle Dashboard. This will allow the structural engineer to compare their Embodied Carbon Report for different stages like Schematic Design(SD), Design Development (DD), and ConstructionDocumentation(CD) as per the SE 2050 Report Submission. 
 
+This suite of revit toolbar took around two years to develop using pyrevit from technical documentation, to training and also constructive feedback from the structural engineers. 
+This tool also develops a custom schema for further web development and structural analysis
+
+
